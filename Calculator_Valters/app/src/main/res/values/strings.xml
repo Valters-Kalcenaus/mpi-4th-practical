@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Calculator_Valters</string>
+    <string name="input_hint">Enter number</string>
+    <string name="input_description">Input field for calculator</string>
+    <string name="mc_text">MC</string>
+    <string name="mr_text">MR</string>
+    <string name="ms_text">MS</string>
+    <string name="equals_text">=</string>
+    <string name="num_0">0</string>
+    <string name="num_1">1</string>
+    <string name="num_2">2</string>
+    <string name="num_3">3</string>
+    <string name="num_4">4</string>
+    <string name="num_5">5</string>
+    <string name="num_6">6</string>
+    <string name="num_7">7</string>
+    <string name="num_8">8</string>
+    <string name="num_9">9</string>
+    <string name="add">+</string>
+    <string name="subtract">-</string>
+    <string name="multiply">*</string>
+    <string name="divide">/</string>
+    <string name="undo_text">Undo</string>
+</resources>
